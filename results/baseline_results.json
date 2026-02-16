@@ -1,0 +1,5 @@
+{
+  "model_name": "Baseline (TF-IDF + Naive Bayes)",
+  "val_accuracy": 0.7843572090560043,
+  "test_accuracy": 0.7799236767877883
+}

@@ -1,0 +1,20 @@
+# Data (too large for GitHub)
+data/
+*.7z
+*.zip
+
+# GloVe embeddings
+glove.*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp

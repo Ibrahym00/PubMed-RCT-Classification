@@ -1,0 +1,5 @@
+{
+  "model_name": "Embeddings Model (GloVe)",
+  "test_accuracy": 0.32842209935188293,
+  "test_loss": 1.4693912267684937
+}
